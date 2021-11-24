@@ -1,0 +1,6 @@
+GET http://localhost:8080/postman-echo/get
+
+###
+
+GET http://localhost:8080/postman-echo/get/feign
+
