@@ -1,4 +1,4 @@
-package fr.unilorraine.idmc.gamescatalog.dto;
+package fr.unilorraine.idmc.gamescatalog.publisher.data;
 
 import lombok.Getter;
 import lombok.NoArgsConstructor;

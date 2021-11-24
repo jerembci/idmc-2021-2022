@@ -1,8 +1,7 @@
-package fr.unilorraine.idmc.gamescatalog.controllers;
+package fr.unilorraine.idmc.gamescatalog.publisher;
 
-import fr.unilorraine.idmc.gamescatalog.dto.NewPublisher;
-import fr.unilorraine.idmc.gamescatalog.dto.PublisherView;
-import fr.unilorraine.idmc.gamescatalog.services.PublishersService;
+import fr.unilorraine.idmc.gamescatalog.publisher.data.NewPublisher;
+import fr.unilorraine.idmc.gamescatalog.publisher.data.PublisherView;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.*;
 

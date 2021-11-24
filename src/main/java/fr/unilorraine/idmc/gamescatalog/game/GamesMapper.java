@@ -1,8 +1,8 @@
-package fr.unilorraine.idmc.gamescatalog.mappers;
+package fr.unilorraine.idmc.gamescatalog.game;
 
-import fr.unilorraine.idmc.gamescatalog.dto.GameView;
-import fr.unilorraine.idmc.gamescatalog.dto.NewGame;
-import fr.unilorraine.idmc.gamescatalog.entities.Game;
+import fr.unilorraine.idmc.gamescatalog.game.data.GameView;
+import fr.unilorraine.idmc.gamescatalog.game.data.NewGame;
+import fr.unilorraine.idmc.gamescatalog.game.data.Game;
 import org.mapstruct.Mapper;
 import org.mapstruct.Mapping;
 import org.springframework.data.domain.Page;

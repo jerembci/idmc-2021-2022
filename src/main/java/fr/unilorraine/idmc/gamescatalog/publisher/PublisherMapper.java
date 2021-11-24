@@ -1,10 +1,8 @@
-package fr.unilorraine.idmc.gamescatalog.mappers;
+package fr.unilorraine.idmc.gamescatalog.publisher;
 
-import fr.unilorraine.idmc.gamescatalog.dto.GameView;
-import fr.unilorraine.idmc.gamescatalog.dto.NewPublisher;
-import fr.unilorraine.idmc.gamescatalog.dto.PublisherView;
-import fr.unilorraine.idmc.gamescatalog.entities.Game;
-import fr.unilorraine.idmc.gamescatalog.entities.Publisher;
+import fr.unilorraine.idmc.gamescatalog.publisher.data.NewPublisher;
+import fr.unilorraine.idmc.gamescatalog.publisher.data.PublisherView;
+import fr.unilorraine.idmc.gamescatalog.publisher.data.Publisher;
 import org.mapstruct.Mapper;
 import org.springframework.data.domain.Page;
 

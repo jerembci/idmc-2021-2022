@@ -1,4 +1,4 @@
-package fr.unilorraine.idmc.gamescatalog.client;
+package fr.unilorraine.idmc.gamescatalog.postman;
 
 import lombok.SneakyThrows;
 import org.springframework.stereotype.Component;

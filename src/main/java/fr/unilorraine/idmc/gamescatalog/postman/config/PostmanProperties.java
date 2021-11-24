@@ -1,4 +1,4 @@
-package fr.unilorraine.idmc.gamescatalog.config;
+package fr.unilorraine.idmc.gamescatalog.postman.config;
 
 import lombok.Getter;
 import lombok.Setter;

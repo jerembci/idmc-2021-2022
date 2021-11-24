@@ -1,9 +1,7 @@
-package fr.unilorraine.idmc.gamescatalog.services;
+package fr.unilorraine.idmc.gamescatalog.publisher;
 
-import fr.unilorraine.idmc.gamescatalog.dto.NewPublisher;
-import fr.unilorraine.idmc.gamescatalog.dto.PublisherView;
-import fr.unilorraine.idmc.gamescatalog.mappers.PublisherMapper;
-import fr.unilorraine.idmc.gamescatalog.repositories.PublisherRepository;
+import fr.unilorraine.idmc.gamescatalog.publisher.data.NewPublisher;
+import fr.unilorraine.idmc.gamescatalog.publisher.data.PublisherView;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 

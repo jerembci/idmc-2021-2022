@@ -1,7 +1,6 @@
-package fr.unilorraine.idmc.gamescatalog.repositories;
+package fr.unilorraine.idmc.gamescatalog.publisher;
 
-import fr.unilorraine.idmc.gamescatalog.entities.Game;
-import fr.unilorraine.idmc.gamescatalog.entities.Publisher;
+import fr.unilorraine.idmc.gamescatalog.publisher.data.Publisher;
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;
 

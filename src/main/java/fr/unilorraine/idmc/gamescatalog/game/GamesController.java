@@ -1,8 +1,7 @@
-package fr.unilorraine.idmc.gamescatalog.controllers;
+package fr.unilorraine.idmc.gamescatalog.game;
 
-import fr.unilorraine.idmc.gamescatalog.dto.GameView;
-import fr.unilorraine.idmc.gamescatalog.dto.NewGame;
-import fr.unilorraine.idmc.gamescatalog.services.GamesService;
+import fr.unilorraine.idmc.gamescatalog.game.data.GameView;
+import fr.unilorraine.idmc.gamescatalog.game.data.NewGame;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.*;
 
